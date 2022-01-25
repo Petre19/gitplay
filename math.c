@@ -11,3 +11,4 @@ return a-b;
 double division(int a, int b){
 return a/b;
 }
+new method here
