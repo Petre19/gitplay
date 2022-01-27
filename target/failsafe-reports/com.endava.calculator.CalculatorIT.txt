@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.endava.calculator.CalculatorIT
+-------------------------------------------------------------------------------
+Tests run: 23, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.183 s <<< FAILURE! - in com.endava.calculator.CalculatorIT
+com.endava.calculator.CalculatorIT.shouldFactorialWithNegative  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.IllegalArgumentException: You can not calculate factorial from negative number
+	at mavenCalc@1.0-SNAPSHOT/com.endava.calculator.CalculatorIT.shouldFactorialWithNegative(CalculatorIT.java:231)
+
